@@ -27,4 +27,7 @@ O projeto representa uma aplicação de plataforma de cursos, contendo páginas 
 <li font-family="robotto" font-size="16px">styled-components</li>
 <li font-family="robotto" font-size="16px">web-vitals</li>
 <li font-family="robotto" font-size="16px">yup</li>
-</ul>
+</ul><br>
+
+<h2 font-family="pattaya">Link do Deploy via Vercel</h2><br>
+<a href="https://react-entrega-kenzie-hub-alexandra86.vercel.app/" font-family="robotto" font-size="16px">Kenzie Hub</a>
